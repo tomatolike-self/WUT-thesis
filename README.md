@@ -6,4 +6,4 @@
 
 本项目基于https://github.com/Markhng/WHUT-Bachelor 。
 
-附：编译器提示的关于\appendix的错误是可以忽略的，不影响使用。
+附：编译器提示的关于\appendix的错误是可以忽略的，不影响使用（我搞不来这个Orz）。
